@@ -243,7 +243,7 @@ const Checkout = () => {
                   </tbody>
                 </table>
                 <div className="flex justify-between w-full py-5">
-                  <p className="font-medium text-green-600 underline">
+                  <p className="font-medium text-green-600 underline underline-offset-1">
                     Have a discount code?
                   </p>
                   <p className=" font-semibold">₦252,750</p>
