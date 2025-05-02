@@ -238,7 +238,7 @@ const Checkout = () => {
                       <td className="text-left text-sm py-3 px-2 font-bold">
                         Tax
                       </td>
-                      <td className="text-end py-3 px-2 text-sm ">₦1,000</td>
+                      <td className="text-end py-3 px-2  text-sm ">₦1,000</td>
                     </tr>
                   </tbody>
                 </table>
